@@ -1,4 +1,4 @@
-```markdown
+
 # Preface
 
 For most of my career, I underestimated the quiet power of compounding.  
