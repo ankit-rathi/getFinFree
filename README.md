@@ -1,2 +1,2 @@
 # getFinFree
-Programmer's Approach to Financial Freedom
+A Programmer's Approach to Financial Freedom
