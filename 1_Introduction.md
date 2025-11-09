@@ -1,4 +1,5 @@
-# Introduction  
+# Chapter 1: Introduction
+
 *Most people earn all their lives but never truly own their time.*
 
 We spend decades working hard — earning, upgrading, hustling — yet somehow, true financial freedom feels distant.  
