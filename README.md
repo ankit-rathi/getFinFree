@@ -14,12 +14,59 @@ You’ll go from *earning actively* to *compounding passively* — by building s
 
 ## 🧩 Table of Contents
 
-### **Preface: Why I Wrote `getFinFree()`**
-- The wake-up call: Losing comfort despite high earnings  
-- From Data & AI to designing life systems  
-- Why traditional financial advice fails  
-- The philosophy behind this book: earn → save → protect → invest → trade  
-- How this book is structured (functional, modular, compounding)
+### **Preface**
+
+#### **1. Opening Realization: The Wake-Up Call**
+- The personal inflection point — realizing that income ≠ freedom  
+- The emotional and financial stress that led to rethinking money  
+- Discovering the missing piece: the power of systems and compounding  
+
+#### **2. From Data & AI to Designing Financial Systems**
+- How a background in data, logic, and automation shaped my thinking  
+- Drawing parallels between algorithms and financial freedom  
+- The core idea: Systems outperform motivation, both in code and in life  
+
+#### **3. The Problem with Traditional Financial Advice**
+- Why most personal finance content fails — fragmented, emotional, and unstructured  
+- The Indian mindset: savings ≠ strategy, effort ≠ efficiency  
+- Why even smart professionals stay stuck in financial mediocrity  
+
+#### **4. The Philosophy Behind `getFinFree()`**
+- Money as a system — not a goal  
+- Compounding as a life philosophy, not just math  
+- Freedom as the ultimate return on disciplined systems  
+- Key principle: “Wealth is a by-product of clarity and discipline”  
+
+#### **5. The Framework of Financial Freedom**
+- The 5+1 function model: `earn()`, `save()`, `protect()`, `invest()`, `trade()`, and `getFinFree()`  
+- How each function connects and compounds  
+- The logic flow: from income generation to peace of mind  
+- Why financial freedom is not an event but a *state of being*  
+
+#### **6. What This Book Will Teach You**
+- A practical, systemized roadmap to financial independence  
+- Tools to think rationally, act consistently, and automate progress  
+- How to bridge emotional awareness with logical decision-making  
+- Real-world insights, data-driven principles, and behavioral wisdom  
+
+#### **7. How to Read This Book**
+- Modular approach: start anywhere, return often  
+- Each part as a self-contained function with clear outputs  
+- Suggested progression for first-time readers  
+- The importance of reflection, iteration, and review  
+
+#### **8. My Promise to the Reader**
+- This is not a “get-rich” manual, but a “get-free” one  
+- The goal is peace, not just prosperity  
+- You will leave this book with clarity, systems, and conviction  
+- A reminder: *Financial freedom is not found — it’s built, one function at a time.*
+
+#### **9. Closing Reflection**
+- Setting the tone: freedom begins with understanding  
+- Invitation to start your financial system — `initFreedom()`  
+- A final thought:  
+  > “You can’t control markets, luck, or outcomes — but you can design your systems.  
+  > And systems, over time, create freedom.”
 
 ---
 
