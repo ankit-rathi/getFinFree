@@ -8,7 +8,6 @@ And when the noise fades, you start hearing the truth.
 
 For me, that truth was simple — *I wasn’t free.*  
 
----
 
 I was earning well, yes. Saving diligently, even investing “smartly.” But I wasn’t *in control*.  
 My time belonged to deadlines. My emotions belonged to the market. My money belonged to a system I didn’t fully understand.  
@@ -19,7 +18,6 @@ Everything worked, but barely. Everything ran, but inefficiently.
 That’s when I began to ask myself a question that changed everything:  
 **What if freedom wasn’t earned, but engineered?**
 
----
 
 I’ve spent over a decade in Data and AI — writing code, building systems, and automating decisions.  
 I started as a backend developer, then moved into software design, data science, and now data engineering. My world revolved around *systems that scale*.  
@@ -31,7 +29,6 @@ I design reliable pipelines for data. Why not for money?
 
 That’s where it began — the slow, disciplined process of rebuilding.  
 
----
 
 At first, I tried to fix the leaks — the impulsive buys, the blind stock tips, the “this-time-it’s-different” trades.  
 But soon, I realized those were just symptoms. The real problem was *lack of structure*.  
@@ -46,7 +43,6 @@ It wasn’t about chasing returns anymore. It was about *removing randomness*.
 
 And when I saw it working — when I found myself buying at lower valuations and exiting at higher ones, not because of luck but because of logic — I knew I’d stumbled upon something deeper.  
 
----
 
 From there, the idea grew — not just into an investing framework, but into a life framework.  
 Over time, I started seeing the parallels between clean code and clean money habits.  
@@ -58,7 +54,6 @@ In code, in careers, and in cashflows.
 
 That’s the heart of this book — the understanding that **wealth is a by-product of clarity and discipline**, not aggression or ambition.  
 
----
 
 Freedom, I realized, isn’t about quitting your job or timing the market.  
 It’s the ability to *choose* — how you work, what you do, and when you stop.  
@@ -74,7 +69,6 @@ They run in parallel, feed into each other, and together form what I call your *
 
 When designed right, this OS doesn’t just grow your wealth — it compounds your *freedom*.  
 
----
 
 Most of us are taught to chase — promotions, percentages, price targets.  
 But systems thinkers learn to design.  
@@ -94,7 +88,6 @@ We’ll explore tools that calm emotions, frameworks that simplify decision-maki
 By the end, you won’t just understand how to grow money.  
 You’ll understand how to *grow peace.*  
 
----
 
 If you’ve ever felt that quiet frustration — earning well but feeling trapped, working hard but not moving closer to freedom — this book is for you.  
 It’s for the logical dreamers, the spreadsheet lovers, the data-driven doers who secretly want to live with less anxiety and more autonomy.  
