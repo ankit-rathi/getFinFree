@@ -151,18 +151,22 @@ It requires clarity.
 ### **The 4-Step `earnSmart()` Staircase**
 
 **1. Learn**
+
 Acquire a skill that solves a painful problem (data, AI, markets, analytics, communication).
 Example: Learning Python for automation or building your first investing system.
 
 **2. Earn**
+
 Monetize the skill directly.
 Freelance, consult, coach, build—just get paid once for it.
 
 **3. Automate**
+
 Productize it into a repeatable asset.
 Write frameworks, build templates, create scripts, codify your process.
 
 **4. Scale**
+
 Use technology, content, or capital to multiply it.
 Systems, libraries, AI tools, investments—this is where income becomes leverage.
 
