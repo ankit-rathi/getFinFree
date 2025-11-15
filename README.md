@@ -60,7 +60,7 @@ You’ll go from *earning actively* to *compounding passively* — by building s
 
 ---
 
-## **Chapter 2 – `earnSmart()`**
+## **Chapter 2 – `earnBetter()`**
 *The income engine.*
 
 ### Decoding Active vs. Passive Income
@@ -206,7 +206,7 @@ You’ll go from *earning actively* to *compounding passively* — by building s
 | Function | Purpose | Output |
 |-----------|----------|--------|
 | `initFreedom()` | Build the mindset & setup the financial OS | Awareness & clarity |
-| `earnSmart()` | Grow income through scalable systems | Income growth |
+| `earnBetter()` | Grow income through scalable systems | Income growth |
 | `saveSmart()` | Manage expenses & automate cash flow | Efficiency |
 | `protectCapital()` | Safeguard your assets & health | Risk protection |
 | `investWisely()` | Build long-term wealth | Compounding returns |
