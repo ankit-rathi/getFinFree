@@ -61,18 +61,10 @@ The primary move is this:
 
 ### **The Four Quadrants of Income**
 
-1. **Employee**
-
-   * You sell time. You follow instructions.
-2. **Owner**
-
-   * You own the outcome. You create value.
-3. **Investor**
-
-   * Your money works for you.
-4. **Automator**
-
-   * Your systems work for you.
+1. **Employee** : You sell time. You follow instructions.
+2. **Owner** : You own the outcome. You create value.
+3. **Investor** : Your money works for you.
+4. **Automator** : Your systems work for you.
 
 The journey to freedom is not a single jump but a gradual migration from the left to the right.
 And every migration begins with *one* productized asset or *one* new stream of income.
@@ -150,25 +142,13 @@ It requires clarity.
 
 ### **The 4-Step `earnSmart()` Staircase**
 
-**1. Learn**
+**1. Learn** : Acquire a skill that solves a painful problem (data, AI, markets, analytics, communication). Example: Learning Python for automation or building your first investing system.
 
-Acquire a skill that solves a painful problem (data, AI, markets, analytics, communication).
-Example: Learning Python for automation or building your first investing system.
+**2. Earn** : Monetize the skill directly. Freelance, consult, coach, build—just get paid once for it.
 
-**2. Earn**
+**3. Automate** : Productize it into a repeatable asset. Write frameworks, build templates, create scripts, codify your process.
 
-Monetize the skill directly.
-Freelance, consult, coach, build—just get paid once for it.
-
-**3. Automate**
-
-Productize it into a repeatable asset.
-Write frameworks, build templates, create scripts, codify your process.
-
-**4. Scale**
-
-Use technology, content, or capital to multiply it.
-Systems, libraries, AI tools, investments—this is where income becomes leverage.
+**4. Scale** : Use technology, content, or capital to multiply it. Systems, libraries, AI tools, investments—this is where income becomes leverage.
 
 If the middle class was taught this staircase in school, half our financial problems wouldn’t exist.
 
