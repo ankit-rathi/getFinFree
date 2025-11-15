@@ -14,7 +14,14 @@ I lived inside that system too. For years, my instinct was to keep large cash re
 
 A good cashflow system is like a quiet background process — it runs, it optimizes, it keeps your financial engine stable without screaming for attention. Most people try to “manage” money manually and then wonder why it leaks. A system doesn’t leak. A system flows.
 
-The **50–30–20** rule (or the **60–30–10** version many Indian families naturally follow) is a simple starting point, but the magic isn’t in the ratio. It’s in the *automation*. When you create flow rules — income comes in → expenses get handled → investments run automatically → buffers refill silently — you remove the most volatile variable in the world: human behavior.
+The **50–30–20 rule** is a simple budgeting framework:  
+- **50% for needs**  
+- **30% for wants**  
+- **20% for investments or savings**
+
+Many Indian families naturally follow a **60–30–10** version. But the magic isn’t in the ratio. It’s in the automation.
+
+When you create flow rules (**income comes in → expenses get handled → investments run automatically → buffers refill silently**), you remove the most volatile variable in the world: **human behavior**.
 
 I built my first cashflow system out of desperation for clarity. A simple monthly dashboard changed everything:
 
