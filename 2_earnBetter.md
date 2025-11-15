@@ -1,6 +1,6 @@
 
 
-# **Chapter 2 – `earnSmart()`**
+# **Chapter 2 – `earnBetter()`**
 
 *The income engine.*
 
@@ -140,7 +140,7 @@ it’s measured expansion:
 That transformation doesn’t require a miracle.
 It requires clarity.
 
-### **The 4-Step `earnSmart()` Staircase**
+### **The 4-Step `earnBetter()` Staircase**
 
 **1. Learn** : Acquire a skill that solves a painful problem (data, AI, markets, analytics, communication). Example: Learning Python for automation or building your first investing system.
 
