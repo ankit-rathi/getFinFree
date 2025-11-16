@@ -16,11 +16,10 @@ You’ll go from *earning actively* to *compounding passively* — by building s
 
 ### **Preface**
 
-- The Wake-Up Call: When Income Isn’t Freedom
-- From Data & AI to Designing Financial Systems
-- Why Traditional Financial Advice Fails
-- The Philosophy and Framework of `getFinFree()`
--  What This Book Will Teach You
+- Background and Introduction
+- Why this book?
+- What this book covers?
+- Who this book is for?
 - A Note to the Reader
   
 ---
