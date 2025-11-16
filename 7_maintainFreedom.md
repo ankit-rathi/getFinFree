@@ -9,9 +9,9 @@ How to keep your wealth engine clean.
 How to teach freedom so it outlives you.
 And how to integrate money, meaning, and mindfulness into one continuous loop.
 
-## **Periodic System Review**
+### **Periodic System Review**
 
-### *Your quarterly & annual financial code audit*
+#### *Your quarterly & annual financial code audit*
 
 Every quarter, I sit down with a cup of coffee and open the same checklist that has anchored my investing for years—my **15-point business review**. It’s the same ritualistic calm every time. No urgency, no drama. Just checking whether the businesses I own are still the businesses I want to own. This quarterly reassessment is the investor’s version of a health check—quiet, methodical, detached.
 
@@ -23,7 +23,7 @@ It feels oddly similar to reviewing old code: some functions still run beautiful
 
 This blend of calm reflection and tactical debugging creates a powerful balance. You’re neither obsessive nor careless. You’re just maintaining the machine that gives you freedom.
 
-### *Debugging habits and automation rules*
+#### *Debugging habits and automation rules*
 
 Over the years, I’ve realised that the bugs in our financial lives rarely come from big decisions—they come from silent habits. A late-night Amazon spiral here. A subtle upgrade in lifestyle there. A recurring subscription we forgot existed. I’ve had to debug many of these in myself.
 
@@ -38,7 +38,7 @@ Everyone should maintain a habit-debug list.
 Quarterly review it.
 Retire what no longer serves the system.
 
-### *Rebalancing life and portfolio*
+#### *Rebalancing life and portfolio*
 
 Rebalancing is not just a portfolio task—it’s a life task.
 
@@ -46,9 +46,9 @@ A balanced investor isn’t someone who does everything, but someone who adjusts
 
 Rebalancing is how freedom stays alive.
 
-## **Teaching Freedom — Legacy and Multipliers**
+### **Teaching Freedom — Legacy and Multipliers**
 
-### *Teaching your family the “freedom mindset”*
+#### *Teaching your family the “freedom mindset”*
 
 I’ve always believed that money lessons are *absorbed*, not *taught*. Parenthood made this clearer. When I explain investing or discipline to my son, I know he isn’t just listening—he’s observing how I behave when markets fall, when expenses rise, when life turns uncertain.
 
@@ -63,7 +63,7 @@ Share your systems.
 Explain your logic.
 Teach them why freedom matters more than consumption.
 
-### *Building generational systems*
+#### *Building generational systems*
 
 Generational wealth isn’t built through one-time windfalls—it’s built through transferable systems. And these systems need to be both practical and philosophical.
 
@@ -82,7 +82,7 @@ Philosophical systems look like:
 
 When both layers exist, your family inherits clarity—not confusion; confidence—not dependence.
 
-### *The multiplier effect of awareness*
+#### *The multiplier effect of awareness*
 
 Awareness compounds faster than money.
 When a family becomes aware—of risk, of choices, of behaviour patterns—their mistakes shrink and their opportunities multiply.
@@ -93,9 +93,9 @@ People who choose consciously.
 People who don’t repeat the errors you spent decades unlearning.
 
 
-## **The Compounding Life Loop**
+### **The Compounding Life Loop**
 
-### *Continuous learning and improvement*
+#### *Continuous learning and improvement*
 
 Long before money compounds, *you* must.
 Your awareness, patience, skill, and emotional regulation create the slope on which financial compounding runs.
@@ -108,7 +108,7 @@ Deciding more deliberately?
 
 Because the person who emerges determines the compounding curve of your future.
 
-### *Integrating money, meaning, and mindfulness*
+#### *Integrating money, meaning, and mindfulness*
 
 At some point, you realise that freedom is not a number—it’s a state.
 Time expands when you stop chasing.
@@ -120,7 +120,7 @@ You check in with yourself, notice drift, and correct.
 Again and again.
 Gently, consistently, permanently.
 
-### *The “Freedom Operating System”—how to live it daily*
+#### *The “Freedom Operating System”—how to live it daily*
 
 Let’s put everything together in a semi-structured model of loops, functions, and feedback:
 
@@ -137,7 +137,7 @@ Every feedback cycle improves your decision-making.
 
 This OS doesn’t control your life—it *enables* it.
 
-## **The Strong Finish — Owning Your Future**
+### **The Strong Finish — Owning Your Future**
 
 Freedom is not something you chase anymore.
 You’ve built the engines.
