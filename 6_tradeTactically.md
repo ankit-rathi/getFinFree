@@ -1,4 +1,4 @@
-## **Chapter 6 — investWisely()**  
+## **Chapter 6 — tradeTactically()**  
 *Short-term systems for long-term thinkers.*
 
 ### **Tactical Trading: Signals, Not Noise**
