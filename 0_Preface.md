@@ -1,4 +1,4 @@
-# **Preface**
+## **Preface**
 
 In 2021, when my father passed away, the world felt painfully still.  
 I was thirty-nine, deep into my career, living what most would call a “good life.” I had the job, the home, the routine, the checkboxes of success neatly ticked. Yet in that quiet moment after loss, everything I thought I understood about control, progress, and freedom came undone.  
@@ -8,7 +8,6 @@ And when the noise fades, you start hearing the truth.
 
 For me, that truth was simple — *I wasn’t free.*  
 
-
 I was earning well, yes. Saving diligently, even investing “smartly.” But I wasn’t *in control*.  
 My time belonged to deadlines. My emotions belonged to the market. My money belonged to a system I didn’t fully understand.  
 
@@ -17,7 +16,6 @@ Everything worked, but barely. Everything ran, but inefficiently.
 
 That’s when I began to ask myself a question that changed everything:  
 **What if freedom wasn’t earned, but engineered?**
-
 
 I’ve spent over a decade in Data and AI — writing code, building systems, and automating decisions.  
 I started as a backend developer, then moved into software design, data science, and now data engineering. My world revolved around *systems that scale*.  
@@ -29,83 +27,63 @@ I design reliable pipelines for data. Why not for money?
 
 That’s where it began — the slow, disciplined process of rebuilding.  
 
+### **Why This Book?**
 
-At first, I tried to fix the leaks — the impulsive buys, the blind stock tips, the “this-time-it’s-different” trades.  
-But soon, I realized those were just symptoms. The real problem was *lack of structure*.  
+This book is born out of a simple realization: motivation is unreliable, but systems are not.  
+When I looked at my financial life as an engineer instead of a consumer, everything changed.  
+I stopped chasing tips, trends, and timing. I replaced emotion with logic, randomness with rules, impulses with structure.  
 
-In engineering, we trust systems more than motivation.  
-Motivation burns out. Systems scale.  
+What started as an attempt to fix my own money habits quickly evolved into *Quantvesting* — a systematic, data-driven, automation-friendly approach to wealth-building.  
+And as the system matured, so did my understanding: this wasn’t just about growing money. It was about reclaiming time, lowering stress, and designing a life where freedom compounds quietly in the background.
 
-So I began designing my finances the same way I’d design a production system — with inputs, processes, feedback loops, and monitoring.  
+This book exists because I wish someone had handed me something like this a decade earlier — a clear, rational, engineering-first guide to building financial freedom.
 
-I called that evolving logic **Quantvesting** — a systematic, data-driven, automation-friendly approach to investing and financial growth.  
-It wasn’t about chasing returns anymore. It was about *removing randomness*.  
+### **What This Book Covers**
 
-And when I saw it working — when I found myself buying at lower valuations and exiting at higher ones, not because of luck but because of logic — I knew I’d stumbled upon something deeper.  
+This is not a motivational book, and it’s not a get-rich-quick manual.  
+It is a blueprint — a functional, modular, step-by-step way to think about money like a system that can be designed, tested, and improved.
 
+Inside, you’ll learn:
 
-From there, the idea grew — not just into an investing framework, but into a life framework.  
-Over time, I started seeing the parallels between clean code and clean money habits.  
-Between debugging errors and reviewing biases.  
-Between automation scripts and automated savings.  
+- How to structure your financial life like a clean, scalable architecture  
+- How to use mental models, rules, automation, and decision frameworks  
+- How to remove emotional noise and build reliable investing habits  
+- How to evaluate businesses using simple, logical principles  
+- How to design your personalised **financial operating system** using functions like:  
+  `earn() → save() → protect() → invest() → trade() → getFinFree()`
+- How to integrate purpose, peace, and long-term thinking into your money decisions  
 
-*Systems outperform motivation.*  
-In code, in careers, and in cashflows.  
-
-That’s the heart of this book — the understanding that **wealth is a by-product of clarity and discipline**, not aggression or ambition.  
-
-
-Freedom, I realized, isn’t about quitting your job or timing the market.  
-It’s the ability to *choose* — how you work, what you do, and when you stop.  
-And that choice only comes when your financial system runs reliably in the background, like a well-designed machine.  
-
-That’s how the idea of `getFinFree()` was born — not as a slogan, but as a system.  
-A simple, logical model that ties everything together:  
-
-`earn() → save() → protect() → invest() → trade() → getFinFree()`  
-
-Each of these isn’t just a step — it’s a function.  
-They run in parallel, feed into each other, and together form what I call your **financial operating system**.  
-
-When designed right, this OS doesn’t just grow your wealth — it compounds your *freedom*.  
-
-
-Most of us are taught to chase — promotions, percentages, price targets.  
-But systems thinkers learn to design.  
-
-And when you start designing your financial life like a system, something magical happens:  
-You stop reacting, and start iterating.  
-You stop chasing money, and start creating freedom.  
-
-This book is about that transformation — from randomness to repeatability, from effort to elegance.  
-
-Each chapter in the journey ahead is structured like a functional block — with a defined input, process, and output.  
-You’ll learn how to think like an engineer, act like an investor, and live like a free human.  
-
-We’ll build clarity first, discipline next, and automation last — because that’s the true order of freedom.  
-We’ll explore tools that calm emotions, frameworks that simplify decision-making, and mental models that make wealth-building less about hustle and more about design.  
-
-By the end, you won’t just understand how to grow money.  
-You’ll understand how to *grow peace.*  
-
-
-If you’ve ever felt that quiet frustration — earning well but feeling trapped, working hard but not moving closer to freedom — this book is for you.  
-It’s for the logical dreamers, the spreadsheet lovers, the data-driven doers who secretly want to live with less anxiety and more autonomy.  
-
-Because freedom isn’t about more — it’s about *enough, well-structured.*  
-And systems, once built, don’t ask for effort — they simply run.  
+Every chapter functions like a block of code — with inputs, processes, outputs, and learning loops.  
+By the end, you will not just understand *what to do* but *how to think*.
 
 ---
 
-**Author’s Note**
+## **Who This Book Is For**
 
-If this book makes you pause and rethink just one part of your financial life, it’s done its job.  
+This book is for the logical dreamer — the person who wants freedom but wants a rational path to get there.  
+It’s for:
 
-You don’t need to build my system. You need to build *yours.*  
-The principles, frameworks, and functions you’ll find here are tools — not commandments.  
+- professionals earning well but feeling stuck  
+- DIY investors who want clarity instead of chaos  
+- people who love structure, systems, and simple explanations  
+- anyone who wants to stop reacting to money and start designing their financial life  
+- those who want peace more than thrills, stability more than speculation  
 
-Use them, tweak them, and most importantly, make them yours.  
+If you’ve ever felt that quiet frustration — working hard yet feeling no closer to freedom — this book will feel like breathing room.
 
+It’s for people like me, and maybe people like you, who understand that **freedom isn’t about having more — but about having enough, structured well.**
+
+---
+
+## **Author’s Note**
+
+If this book makes you pause and rethink even one part of your financial life, it has served its purpose.  
+You don’t need to adopt my system; you need to build *yours*.  
+The tools, frameworks, and functions here are meant to be adapted — not worshipped.
+
+Use them. Modify them. Rewrite them as your life evolves.
+
+Remember:  
 *Freedom isn’t given. It’s built.*  
+
 Let’s build yours — one function at a time.
-```
