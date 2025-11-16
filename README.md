@@ -121,25 +121,37 @@ You’ll go from *earning actively* to *compounding passively* — by building s
 
 ---
 
-## **Chapter 5 – `investWisely()`**
+## ** Chapter 5 – `investWisely()` **
 *Let your systems grow autonomously.*
 
 ### Investing 101 — Understanding Risk, Return, and Time
 - How to think like an investor, not a gambler  
-- The math of compounding returns  
-- Why patience is your best edge  
-
-### Quantvesting — A Rules-Based Investing Framework
-- From gut feeling to rule-based investing  
-- The logic behind the 15-point business checklist  
-- Data-driven decision-making  
-- How to build your own quant system  
+- The math of compounding and exponential growth  
+- Risk, uncertainty, volatility — and why patience becomes your ultimate edge  
 
 ### Building a Long-Term Portfolio
-- Asset allocation principles  
-- How to automate investing  
-- Avoiding behavioral traps  
-- The “Peace Index” of a portfolio  
+- Principles of asset allocation and diversification  
+- Automating your investments with SIPs and systems  
+- Avoiding behavioural traps and emotional mistakes  
+- The “Peace Index”: how to sleep at night with your portfolio  
+
+### Quantvesting_v1 — A Rules-Based Investing Framework
+
+#### a) Foundations
+- From gut-driven stock picking to rule-based investing  
+- Why checklists protect you from yourself  
+
+#### b) The 15-Point Business Checklist
+- Management quality  
+- Business quality  
+- Future prospects  
+- Valuation and margin of safety  
+
+#### c) Building Your Own System
+- Constructing a stock universe of robust businesses  
+- Filtering and accumulating (SIP-ing) undervalued opportunities  
+- Reassessing businesses each quarter with clean data  
+- Using simple tools to make consistent, data-backed decisions  
 
 ---
 
