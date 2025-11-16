@@ -156,21 +156,45 @@ You’ll go from *earning actively* to *compounding passively* — by building s
 ---
 
 ## **Chapter 6 – `tradeTactically()`**
+
 *Short-term systems for long-term thinkers.*
 
-### The Role of Trading in a Freedom Plan
-- Trading ≠ speculation — the quantified view  
-- When and how trading fits into your wealth code  
+### **The Role of Trading in a Freedom Plan**
 
-### Trading Systems and Discipline
-- Systematic setups, not emotional reactions  
-- Trade journaling, backtesting, and rulebooks  
-- Building feedback loops from data  
+* The quantified difference between trading and speculation
+* When trading supports (not replaces) your wealth OS
+* How tactical trading complements long-term investing
 
-### Psychology of Wins and Losses
-- Managing risk, ego, and expectations  
-- Turning lessons into algorithms  
-- Why trading sharpens investor discipline  
+### **Trading Systems and Discipline**
+
+* Systematic setups vs. emotional reactions
+* Backtesting, journaling, and rulebooks
+* Data-driven feedback loops for continuous improvement
+
+### **The Psychology of Wins and Losses**
+
+* Managing risk, ego, and expectation cycles
+* Converting mistakes into algorithms
+* Why tactical discipline strengthens long-term investor behaviour
+
+### **Quantvesting_v2 — Integrating Tactical Trading with Long-Term Investing**
+
+#### a) Foundations
+
+* Evolution from Quantvesting_v1 to tactical overlays
+* Using the same stock universe to maintain quality
+
+#### b) Valuation Cycles & Tactical Edges
+
+* Understanding contraction–expansion valuation cycles
+* Identifying exit windows through stretched valuations
+* Optimising entries and exits with chart-based patterns
+
+#### c) Rotational Tactics
+
+* Rotating across opportunities based on risk–reward ratios
+* Prioritising trades where probability and payoff align
+* How to maintain discipline while moving tactically
 
 ---
 
