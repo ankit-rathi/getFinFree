@@ -52,11 +52,6 @@ You’ll go from *earning actively* to *compounding passively* — by building s
 - Coding metaphors for financial design  
 - Building your first “financial script” — auto-invest, track, rebalance  
 
-### Reflection: The Freedom Self-Diagnosis
-- Self-test: Are you rich, wealthy, or free?  
-- Mindset debugging worksheet  
-- Designing your “freedom statement”
-
 ---
 
 ## **Chapter 2 – `earnBetter()`**
