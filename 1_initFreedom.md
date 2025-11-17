@@ -64,7 +64,9 @@ Over time, you’ll realize that freedom isn’t achieved through bursts of moti
 
 It’s not about how disciplined you are. It’s about how **well your system removes the need for discipline**.
 
-### **Reflection: The Freedom Self-Diagnosis**
+---
+
+#### **Reflection: The Freedom Self-Diagnosis**
 
 Take a minute to pause here.
 Forget your income for a moment. Forget your net worth.
