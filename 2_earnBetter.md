@@ -6,8 +6,6 @@
 
 ---
 
-### **The Tension We Don’t Admit Out Loud**
-
 Most of us work hard—sometimes painfully hard—yet still feel one unexpected bill away from losing our balance.
 It’s an invisible anxiety we carry: *How can I be earning so much, yet still feel so little control?*
 
@@ -37,9 +35,9 @@ But the bridge between the two is *productized thinking*—systems, frameworks, 
 Active → Leveraged → Passive.
 That’s the real progression.
 
-### **How to “Productize” Your Skills**
+#### **How to “Productize” Your Skills**
 
-#### *Turning expertise into assets*
+##### *Turning expertise into assets*
 
 You don’t productize skills by making a product—
 you do it by packaging a repeatable transformation.
@@ -59,7 +57,7 @@ Whether it becomes a course, automation, toolkit, advisory, or content library i
 The primary move is this:
 **convert skill into structure.**
 
-### **The Four Quadrants of Income**
+#### **The Four Quadrants of Income**
 
 1. **Employee** : You sell time. You follow instructions.
 2. **Owner** : You own the outcome. You create value.
@@ -98,9 +96,9 @@ When you combine all three, you create what 95% of people never build:
 **income optionality.**
 The power to choose *how* you earn, not just *how much*.
 
-### **Using AI, Data & Systems to Earn Smarter**
+#### **Using AI, Data & Systems to Earn Smarter**
 
-#### *The future of work belongs to people who work with tools—not time*
+##### *The future of work belongs to people who work with tools—not time*
 
 Your next evolution—AI automation, mentoring investors, guiding professionals—fits beautifully into the new income logic.
 
@@ -140,7 +138,7 @@ it’s measured expansion:
 That transformation doesn’t require a miracle.
 It requires clarity.
 
-### **The 4-Step `earnBetter()` Staircase**
+#### **The 4-Step `earnBetter()` Staircase**
 
 **1. Learn** : Acquire a skill that solves a painful problem (data, AI, markets, analytics, communication). Example: Learning Python for automation or building your first investing system.
 
@@ -152,15 +150,15 @@ It requires clarity.
 
 If the middle class was taught this staircase in school, half our financial problems wouldn’t exist.
 
-### **Closing Reflection**
+---
+
+#### **Closing Reflection**
 
 *Pause for a moment and ask:*
 **What is your current income engine really optimized for—survival, stability, or expansion?**
 And more importantly—*who would you become if your engine finally matched your ambition?*
 
----
-
-### **Your First Call to Action**
+#### **Your First Call to Action**
 
 Start small but start deliberately.
 Write your first **income script**—a one-page outline of a skill you can learn, earn from, automate, and scale.
