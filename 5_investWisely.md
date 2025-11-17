@@ -77,7 +77,7 @@ When done right, your investing system becomes a quiet background process—runn
 
 ---
 
-### **Closing Reflection — Build Your Future OS**
+#### **Closing Reflection — Build Your Future OS**
 
 Your portfolio is a mirror of your behaviour. It reveals your patience, your fears, your impulses, and your design. Investing is not just about multiplying money; it’s about voting for the future version of yourself. A version that trusts time more than noise, systems more than moods, and process more than predictions.
 
