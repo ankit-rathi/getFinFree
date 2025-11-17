@@ -137,7 +137,9 @@ Every feedback cycle improves your decision-making.
 
 This OS doesn’t control your life—it *enables* it.
 
-### **The Strong Finish — Owning Your Future**
+---
+
+#### **The Strong Finish — Owning Your Future**
 
 Freedom is not something you chase anymore.
 You’ve built the engines.
