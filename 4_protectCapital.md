@@ -95,8 +95,9 @@ Digital safety is not paranoia; it’s hygiene.
 A single mistake can erase a decade of discipline.
 A single moment of awareness can prevent it.
 
+---
 
-### **Reflection: The Protection Self-Diagnosis**
+#### **Reflection: The Protection Self-Diagnosis**
 
 Pause for a moment and scan your financial OS from the inside.
 
