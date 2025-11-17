@@ -2,6 +2,8 @@
 
 *A systems-thinking approach to personal finance inspired by compounding, data, and life.*
 
+![](https://cdn-images-1.medium.com/max/1620/1*v8tcqVhQVd5hq-j0TT2GnA.png)
+
 ---
 
 ## 🧭 Overview
