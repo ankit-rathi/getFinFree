@@ -55,7 +55,7 @@ The antidote is lifestyle design. For me, the principles were simple:
 
 When you design your lifestyle deliberately, inflation loses its grip. Your money stops reacting and starts responding.
 
-### **Building Satisfaction Loops**
+#### **Building Satisfaction Loops**
 
 Saving is not about deprivation; it’s about reinforcement. You don’t stick to a system because it’s logical. You stick because it becomes part of your identity.
 
@@ -76,7 +76,9 @@ Two loops changed everything for me:
 
 A good `saveSmart()` script doesn’t just optimize money. It optimizes the *person* running the script.
 
-### **Reflection: The Cashflow Self-Diagnosis**
+---
+
+#### **Reflection: The Cashflow Self-Diagnosis**
 
 Take a quiet moment to notice your patterns. Not the numbers — the emotions behind the numbers.
 Where does your money leak when you’re stressed?
