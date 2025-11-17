@@ -247,16 +247,6 @@ You’ll go from *earning actively* to *compounding passively* — by building s
 
 ---
 
-## 🪶 Writing Style & Tone
-
-- **Voice:** Balanced mix of first-person (personal journey) + second-person (direct guidance)  
-- **Tone:** Structured, reflective, and data-driven — like a *practical playbook with human warmth*  
-- **Metaphors:** Coding, compounding, and system design  
-- **Cultural Context:** Indian roots with global relevance  
-- **Goal:** Make financial freedom feel logical, actionable, and inevitable  
-
----
-
 > “Freedom is not an outcome of luck or intelligence.  
 > It’s the result of systems designed to run — with or without you.”  
 > — *from getFinFree()*
