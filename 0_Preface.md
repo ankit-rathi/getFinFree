@@ -50,6 +50,8 @@ Every chapter functions like a block of code — with inputs, processes, outputs
 
 This book is for the logical dreamer — the person who wants freedom but wants a rational path to get there. It’s for:
 
+![](https://cdn-images-1.medium.com/max/1080/1*zcge_w8O_Ja56BwYMDaTNQ.png)
+
 - professionals earning well but feeling stuck  
 - DIY investors who want clarity instead of chaos  
 - people who love structure, systems, and simple explanations  
