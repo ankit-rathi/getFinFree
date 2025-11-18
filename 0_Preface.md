@@ -39,7 +39,7 @@ Inside, you’ll learn:
 - How to remove emotional noise and build reliable investing habits  
 - How to evaluate businesses using simple, logical principles  
 - How to design your personalised **financial operating system** using functions like:  
-  ![](https://cdn-images-1.medium.com/max/1080/1*R0c4V69NQhb73MZxte7oWA.png)
+  ![](https://cdn-images-1.medium.com/max/1080/1*TQ7qFRSVDaZt09eZOcIAJQ.png)
 - How to integrate purpose, peace, and long-term thinking into your money decisions  
 
 Every chapter functions like a block of code — with inputs, processes, outputs, and learning loops. By the end, you will not just understand *what to do* but *how to think*.
@@ -50,7 +50,7 @@ Every chapter functions like a block of code — with inputs, processes, outputs
 
 This book is for the logical dreamer — the person who wants freedom but wants a rational path to get there. It’s for:
 
-![](https://cdn-images-1.medium.com/max/1080/1*zcge_w8O_Ja56BwYMDaTNQ.png)
+![](https://cdn-images-1.medium.com/max/1080/1*vhOdheQaHcP4HjPqbfUyaA.png)
 
 - professionals earning well but feeling stuck  
 - DIY investors who want clarity instead of chaos  
