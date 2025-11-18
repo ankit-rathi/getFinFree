@@ -10,7 +10,7 @@ We imagine the next salary hike, promotion, or bonus will finally tip the balanc
 That’s when a quiet realization begins to form:
 earning more doesn’t mean *owning your time*.
 
-![](https://cdn-images-1.medium.com/max/1080/1*Zd8WsCy2ZTFUft2N1AUW9w.png)
+![](https://cdn-images-1.medium.com/max/1080/1*QLiz4CiFmLHbFO0RhiQ7VA.png)
 
 ### **Why Most People Earn but Never Get Free**
 
