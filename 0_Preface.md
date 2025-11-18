@@ -39,7 +39,7 @@ Inside, you’ll learn:
 - How to remove emotional noise and build reliable investing habits  
 - How to evaluate businesses using simple, logical principles  
 - How to design your personalised **financial operating system** using functions like:  
-  `earn() → save() → protect() → invest() → trade() → getFinFree()`
+  ![](https://cdn-images-1.medium.com/max/1080/1*R0c4V69NQhb73MZxte7oWA.png)
 - How to integrate purpose, peace, and long-term thinking into your money decisions  
 
 Every chapter functions like a block of code — with inputs, processes, outputs, and learning loops. By the end, you will not just understand *what to do* but *how to think*.
