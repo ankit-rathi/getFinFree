@@ -10,6 +10,8 @@ We imagine the next salary hike, promotion, or bonus will finally tip the balanc
 That’s when a quiet realization begins to form:
 earning more doesn’t mean *owning your time*.
 
+![](https://cdn-images-1.medium.com/max/1080/1*Zd8WsCy2ZTFUft2N1AUW9w.png)
+
 ### **Why Most People Earn but Never Get Free**
 
 The modern world runs on a subtle illusion — the idea that a stable income guarantees security. It’s comforting because it feels measurable: numbers on a payslip, a bank balance, a tax return. But this illusion is dangerous, because it masks a deeper truth — **income without systems is a treadmill**.
