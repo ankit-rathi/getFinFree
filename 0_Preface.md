@@ -46,7 +46,7 @@ Every chapter functions like a block of code — with inputs, processes, outputs
 
 ---
 
-## **Who This Book Is For**
+### **Who This Book Is For**
 
 This book is for the logical dreamer — the person who wants freedom but wants a rational path to get there. It’s for:
 
@@ -64,7 +64,7 @@ It’s for people like me, and maybe people like you, who understand that **free
 
 ---
 
-## **Author’s Note**
+### **Author’s Note**
 
 If this book makes you pause and rethink even one part of your financial life, it has served its purpose. You don’t need to adopt my system; you need to build *yours*. The tools, frameworks, and functions here are meant to be adapted — not worshipped.
 
@@ -73,3 +73,19 @@ Use them. Modify them. Rewrite them as your life evolves.
 Remember: *Freedom isn’t given. It’s built.*  
 
 Let’s build yours — one function at a time.
+
+### **A Note for the Reader**
+
+A quick clarification before you begin.
+
+Some readers might notice the clean structure, the em-dashes, or the polished flow and assume this book was “written by AI.” It wasn’t.
+Every idea, framework, and story here comes from my own experience — shaped over years of investing, reflecting, and rebuilding.
+
+I did use AI as an **editor**, not an author: to tighten language, improve clarity, and organise thoughts more effectively. The thinking, logic, and voice remain entirely mine.
+
+And yes, I kept the em-dashes intentionally. They help me express ideas with clarity and rhythm, especially in a book built around systems and mental models.
+
+So while the polish may look modern, the insights are fully lived and human.
+
+**I wrote the book — AI helped me present it better.**
+
